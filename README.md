@@ -47,8 +47,17 @@ Este proyecto desarrolla un sistema robusto de reconocimiento de voz para identi
 - **Interfaz Visual:**
   Incluye funciones para grabación, reproducción, análisis temporal y frecuencial, y visualización de resultados.
 
+## Autor
+**Joanna Alexandra Carrión Pérez**: Bachiller de Ingeniería Electrónica. Apasionada por la Ciencia de Datos y la Inteligencia Artificial. [LinkedIn](https://www.linkedin.com/in/joanna-carrion-perez/)
+
 ## Contribuidores
 - Katherine Saady Condor Oscanoa
 - Jean Pierre Michael Cueva Rivadeneyra
 - Walther Daniel Retuerto Carrillo
 - Anthony Diego Santillán Romualdo
+
+## Contacto
+Para cualquier duda o sugerencia, contáctame a través de **joannacarrion14@gmail.com**.
+
+## Contribuciones
+¡Contribuciones son bienvenidas! Si tienes ideas o mejoras, no dudes en hacer un fork del repositorio y enviar un pull request.
