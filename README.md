@@ -13,7 +13,7 @@ Este proyecto desarrolla un sistema robusto de reconocimiento de voz para identi
 - **Hardware:**
   - Micrófono compatible.
   - Computadora con Windows.
-- **Datos:** 130 grabaciones por palabra (sumar, restar, multiplicar y dividir).
+- **Datos:** **Nota importante: Las grabaciones utilizadas en este proyecto son confidenciales y no están incluidas en el repositorio. Los usuarios deberán realizar sus propias grabaciones de acuerdo a las especificaciones proporcionadas (130 grabaciones por palabra: sumar, restar, multiplicar y dividir).**
 
 ## Características principales
 - **Interfaz Visual:**
