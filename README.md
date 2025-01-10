@@ -29,9 +29,13 @@ Este proyecto desarrolla un sistema robusto de reconocimiento de voz para identi
 
 ## Instrucciones de Uso
 1. Configura el entorno en MATLAB y asegura un espacio de grabación con poco ruido.
-2. Inicia la interfaz visual y ajusta los parámetros de grabación (frecuencia de muestreo, duración, etc.).
-3. Graba las palabras objetivo y observa los resultados en tiempo real en la interfaz.
-4. Visualiza el análisis energético, el árbol de descomposición y la matriz de confusión.
+2. Realiza tus propias grabaciones siguiendo estas especificaciones:
+   - Frecuencia de muestreo: 44,100 Hz.
+   - Duración por grabación: 2 segundos.
+   - Formato: Monocanal, 16 bits.
+3. Inicia la interfaz visual y ajusta los parámetros de grabación.
+4. Graba las palabras objetivo y observa los resultados en tiempo real en la interfaz.
+5. Visualiza el análisis energético, el árbol de descomposición y la matriz de confusión.
 
 ## Ejemplos de Resultados
 - **Matriz de Confusión:**
