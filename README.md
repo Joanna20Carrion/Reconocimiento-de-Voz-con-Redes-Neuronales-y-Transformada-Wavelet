@@ -5,7 +5,7 @@
 ![Wavelet](https://img.shields.io/badge/Transformada-Wavelet-green?style=flat)
 ![Windows](https://img.shields.io/badge/Sistema-Windows-lightgrey?style=flat&logo=windows)
 ![Estado](https://img.shields.io/badge/Precisión-99.36%25-success?style=flat)
-![Licencia](https://img.shields.io/badge/Licencia-Personal-red)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 ---
 
