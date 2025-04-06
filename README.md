@@ -1,4 +1,4 @@
-# 🧠 Reconocimiento de Voz con Redes Neuronales y Transformada Wavelet
+# 🧠 Reconocimiento de Voz con Redes Neuronales y Transformada Wavelet 
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-2023b+-orange?style=flat&logo=mathworks)
 ![SVM](https://img.shields.io/badge/Modelo-SVM-blue?style=flat)
